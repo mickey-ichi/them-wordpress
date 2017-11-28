@@ -1,0 +1,69 @@
+
+/*
+ * Petshop css
+*/
+.site-header.header_2 .header_cart button.btn::after{
+    background: rgba(0, 0, 0, 0) url("../../images/sprite2.png") no-repeat scroll -36px -155px;
+}
+.auto_install_layou11 .woocommerce .owl-carousel li.product .star-rating,.auto_install_layout9 li.product-grid.product .star-rating{
+    position: absolute;
+    top: -33px;
+}
+.product_wrap .star-rating{
+    margin-bottom: 0;
+}
+.site-header .search_button.btn.button-search:hover{
+    color:#fff !important;
+}
+.site-footer .footer-bottom{
+    background:#9b7358 !important;
+}
+
+.auto_install_layout11 .site-header .search_button.btn.button-search:hover,
+.auto_install_layout11 .site-header .search_button.btn.button-search{
+    color: #fff !important;
+}
+
+.product_layout3 .product-container{
+padding:8px;
+}
+  .product_layout3 .product-container:hover{
+  	background-color:rgba(0,0,0,0.1) !important;
+  }
+  .product_layout3 .product-carousel li.product:hover .product-container, .product_layout3 ul.products li.product.product-grid:hover .product-container, .product_layout3 li.product-grid .product-description .button-group .button, .product_layout3 li.product-grid .product-description .button-group .button.wishlist .yith-wcwl-add-to-wishlist, .product_layout3 li.product-grid .product-description .button-group .ajax.button.quick-btn{
+  	background-color:rgba(0,0,0,0.1) !important;
+  }
+  .product_layout3 .product_wrap ul.products li.product-list:hover .product-container .product-thumb{
+  background-color:rgba(0,0,0,0.1) !important;
+  }
+   .product_layout3 li.product-list:hover  .product-container:hover{
+   	background-color:rgba(0,0,0,0) !important;
+   }
+   .product_layout3 ul.products li.product-list .button-wrapper{
+   text-align:left;
+   }
+
+  .woocommerce-loop-product__title{
+  text-align:center !important;
+  }
+ 
+
+@media screen and (max-width: 991px) {
+	.site-footer .toggle:hover {
+		background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+	}
+}
+@media screen and (min-width: 992px) {
+    .auto_install_layout11 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+        width: 33.3333%;
+    }
+    .auto_install_layout11 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product:nth-child(3n+1){
+        clear: both;
+    }
+    .auto_install_layout11 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product:nth-child(4n+1){
+        clear: none;
+    }    
+    .auto_install_layout11 .woocommerce ul.owl-carousel li.product,.auto_install_layout8 ul.owl-carousel li.product{
+        width: 100%;
+    }
+}

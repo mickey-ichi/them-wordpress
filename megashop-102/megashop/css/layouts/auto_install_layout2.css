@@ -1,0 +1,14 @@
+
+/*
+ * Megashop css
+ */
+
+.auto_install_layout2 .site-header .woocommerce-product-search .search_button.btn.button-search:hover,.auto_install_layout2 .wysija-submit:hover,.woocommerce input.button.alt:hover{
+    color: #fff !important;
+}
+
+@media (max-width: 767px) {
+       .auto_install_layout2 .header_1 .header_cart button.btn.dropdown-toggle{
+            background: #000000 !important;
+        }
+}

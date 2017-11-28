@@ -1,0 +1,84 @@
+a:1:{i:0;O:8:"stdClass":2:{s:11:"option_name";s:23:"options-framework-theme";s:12:"option_value";s:5318:"a:62:{s:17:"display_preloader";s:1:"1";s:10:"pre_loader";s:81:"http://192.168.0.118/laxmi/wordpress/megashop/wp-content/uploads/2016/11/logo.png";s:10:"apple_icon";s:0:"";s:18:"display_scroll_top";s:1:"1";s:16:"scroll_top_speed";s:3:"500";s:13:"header_script";s:0:"";s:13:"footer_script";s:0:"";s:10:"custom_css";s:0:"";s:12:"live_preview";s:1:"1";s:15:"container_width";s:4:"1280";s:12:"theme_layout";s:19:"left_sidebar_layout";s:14:"example_preset";s:3:"red";s:22:"megashop_primary_color";s:7:"#f12a43";s:24:"megashop_secondary_color";s:7:"#333333";s:20:"megashop_title_color";s:7:"#555555";s:24:"megashop_meta_font_color";s:7:"#444444";s:26:"megashop_pagecontent_color";s:7:"#888888";s:11:"header_logo";s:107:"http://192.168.0.118/laxmi/wordpress/megashop/wp-content/uploads/2016/11/demo-store-logo-1475900567.jpg.png";s:12:"favicon_icon";s:0:"";s:13:"sticky_header";s:1:"1";s:13:"header_layout";s:8:"header_1";s:13:"header_banner";s:165:"[tt_banner layout="layout2" box_shadow="" hover_style="style1" img_src_1="http://192.168.0.118/laxmi/wordpress/megashop/wp-content/uploads/2016/11/topbanner-1.jpg" ]";s:15:"header_bg_color";s:7:"#f12a43";s:14:"mainmenu_color";s:0:"";s:20:"mainmenu_hover_color";s:0:"";s:15:"top_bar_setting";s:20:"right_menu_left_text";s:11:"topbar_text";s:44:"Wants to explore Upcoming Deals on Weekends?";s:13:"support_title";s:11:"Call center";s:19:"support_discription";s:12:"088-888-8888";s:17:"main_menu_options";s:7:"disable";s:11:"shop_layout";s:11:"leftsidebar";s:17:"shop_page_sidebar";s:9:"sidebar-1";s:11:"blog_layout";s:11:"leftsidebar";s:17:"blog_page_sidebar";s:9:"sidebar-1";s:18:"testimonial_layout";s:11:"leftsidebar";s:17:"baove_footer_area";s:2473:"<div id="ttcmsfooterservice">
+<h2 class="title_block">Store Servies</h2>
+<div class="ttcmsfooterservice" style="display: block;">
+<div class="ttfooterservice">
+<div class="trust-pay service-block-content col-sm-3 col-xs-3">
+<div class="footer-service-img trust-pay-img"></div>
+<div class="footer-service-desc">
+<div class="service-heading">Assured Purchase</div>
+<div class="service-sub-heading">Provide genuine service &amp; store products</div>
+<div class="service-desc">
+<ul>
+ 	<li>
+<div class="service-icon"></div>
+100% genuine products</li>
+ 	<li>
+<div class="service-icon"></div>
+Deliver items at door</li>
+ 	<li>
+<div class="service-icon"></div>
+Free to return products</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="easy-returns service-block-content col-sm-3 col-xs-3">
+<div class="footer-service-img easy-returns-img"></div>
+<div class="footer-service-desc">
+<div class="service-heading">Esay to buy &amp; return</div>
+<div class="service-sub-heading">Single click to buy &amp; return products</div>
+<div class="service-desc">
+<ul>
+ 	<li>
+<div class="service-icon"></div>
+Same day devilery available</li>
+ 	<li>
+<div class="service-icon"></div>
+Click to return products</li>
+ 	<li>
+<div class="service-icon"></div>
+Quick support links available</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="secure-payment service-block-content col-sm-3 col-xs-3">
+<div class="footer-service-img secure-payment-img"></div>
+<div class="footer-service-desc">
+<div class="service-heading">secure payments</div>
+<div class="service-sub-heading">Accepts all credit &amp; debit cards</div>
+<div class="service-desc">
+<ul>
+ 	<li>
+<div class="service-icon"></div>
+100% payment security</li>
+ 	<li>
+<div class="service-icon"></div>
+Confirmation authentity</li>
+ 	<li>
+<div class="service-icon"></div>
+delivery items at door</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="app-block service-block-content col-sm-3 col-xs-3">
+<div class="footer-service-img app-block-img"></div>
+<div class="footer-service-desc">
+<div class="service-heading">Download center</div>
+<div class="service-sub-heading">Use mobile app and get biggest discounts</div>
+<div class="service-desc">
+<ul>
+ 	<li>
+<div class="service-icon-android service-icon"></div>
+<span class="android">Android</span></li>
+ 	<li>
+<div class="service-icon-iOs service-icon"></div>
+<span class="iOs">iOs</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>";s:21:"display_footer_widget";s:1:"1";s:20:"select_footer_column";s:8:"4_column";s:15:"footer_widget_1";s:15:"footer_column_1";s:15:"footer_widget_2";s:15:"footer_column_2";s:15:"footer_widget_3";s:15:"footer_column_3";s:15:"footer_widget_4";s:15:"footer_column_4";s:24:"display_footer_copyright";s:1:"1";s:14:"copyright_text";s:118:"<a class="_blank" href="http://www.prestashop.com" target="_blank"> Â© 2016 - Ecommerce software by PrestaShopâ„¢ </a>";s:18:"display_socialicon";s:1:"1";s:13:"facebook_link";s:25:"https://www.facebook.com/";s:12:"twitter_link";s:20:"https://twitter.com/";s:8:"rss_link";s:20:"https://www.rss.com/";s:13:"dribbble_link";s:25:"https://www.dribbble.com/";s:16:"google_plus_link";s:28:"https://www.plus.google.com/";s:14:"instagram_link";s:25:"https://www.linkedin.com/";s:13:"linkedin_link";s:25:"https://www.linkedin.com/";s:13:"pintrest_link";s:25:"https://www.pintrest.com/";s:11:"mailto_link";s:0:"";s:12:"youtube_link";s:0:"";s:12:"custom_link1";s:0:"";s:12:"custom_icon1";s:0:"";s:12:"custom_link2";s:0:"";s:12:"custom_icon2";s:0:"";s:12:"custom_link3";s:0:"";s:12:"custom_icon3";s:0:"";s:7:"version";s:3:"1.5";}";}}

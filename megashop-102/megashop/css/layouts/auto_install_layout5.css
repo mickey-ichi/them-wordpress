@@ -1,0 +1,89 @@
+/*
+ * Groccery css
+ */
+ 
+.auto_install_layout5 .site-header .search_button.btn.button-search{
+    color: #fff;
+}
+.auto_install_layout5 .rightbanner .ttbannerblock:last-child {
+    margin-bottom: 0;
+}
+.auto_install_layout5 .site-footer .footer-bottom{
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+}
+.auto_install_layout5 .metaslider .flexslider .flex-next,.auto_install_layout5 .metaslider .flexslider .flex-prev{
+    border-color: #000 !important;
+    color: #000 !important;
+}
+.auto_install_layout5 .metaslider .flexslider .flex-direction-nav a:hover{
+    background: #000 !important;
+    color: #fff !important;
+}
+.auto_install_layout5 #mega-menu-wrap-left_menu .mega-menu-toggle .mega-toggle-block:before{
+    color: #000 !important;
+}
+.auto_install_layout5 #mega-menu-wrap-left_menu .mega-menu-toggle,#mega-menu-wrap-left_menu .mega-menu-toggle .mega-toggle-block:after{
+    color: #000 !important;
+}
+.auto_install_layout5 .rightbanner .ttbanner-img img{
+    width: auto;
+    margin: 0 auto;
+}
+.rightbanner .ttbannerblock{
+    background: none;
+}
+.footer-widget-area.border, .payment-icon-inner {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+.auto_install_layout5 .place-order #place_order.button:hover{
+    color:  #fff !important;
+}
+@media screen and (max-width: 991px) {
+    .search_cart.ttheader-bg.dropdown.openclose {
+        position: relative;
+    }
+    .right_menu_left_text.padding_0{
+        display: inline-block;
+        float: right;
+       text-align: left;
+        width: auto;
+    }
+    .right_menu_left_text > div, .left_menu_left_right > div {
+        display: inline-table;
+        float: none;
+    }
+    .left_text {
+        text-align: left;
+        width: auto;
+    }
+    .site-header.header_2 .cart_contents {
+        border-radius: 0;
+        top: -47px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .rightbanner .ttbannerblock.layout1{
+        width: auto;
+    }
+    .right_menu_left_text.padding_0,.left_text{
+        display: inline-block;
+        float: left;
+       text-align: center;
+        width: 100%;
+    }
+    .rightbanner .ttbannerblock {
+        display: inline-block;
+        float: unset;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .rightbanner {
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+    .site-header.header_2 .cart_contents {
+        top: -2px;
+    }
+}

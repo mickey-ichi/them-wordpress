@@ -1,0 +1,91 @@
+
+/*
+ * Megashop css
+ */
+.auto_install_layout1 .site-header .woocommerce-product-search .search_button.btn.button-search:hover,.auto_install_layout1 .wysija-submit:hover{
+    color: #fff !important;
+}
+.woocommerce-product-search select{
+    width: 100%;
+    background: #fff;
+}
+.site-header .woocommerce-product-search input.search-field[type="search"]{
+    width: 370px;
+}
+.search_block_top .select-wrapper{
+    width: 170px;
+}
+.search_block_top .select-wrapper:before {
+    border-left: 1px solid #e5e5e5;
+    content: "";
+    height: 25px;
+    left: 0;
+    position: absolute;
+    right: auto;
+    top: 6px;
+    z-index: 9;
+}
+.site-header .search_button.btn.button-search{
+    padding: 13px 40px;
+}
+@media (min-width: 1301px) and (max-width: 1600px) {
+	.site-header .woocommerce-product-search input.search-field[type="search"] {
+		width: 302px;
+	}
+        
+}
+@media (min-width: 1200px) and (max-width: 1300px) { 
+	.site-header .woocommerce-product-search input.search-field[type="search"] {
+		width: 239px;
+	}
+	
+}
+@media (max-width: 1200px) {
+	.site-header .woocommerce-product-search input.search-field[type="search"]{
+		width: 230px;
+        }
+        .search_block_top .select-wrapper {
+            width: 120px;
+        }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.site-header .woocommerce-product-search input.search-field[type="search"] {
+		width: 42%;
+	}
+        .site-header .search_button.btn.button-search{
+             padding: 13px 23px;
+        }
+        
+}
+@media (max-width: 991px) {
+    .header_left.search_block_top{
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .woocommerce-product-search {
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .search_block_top .select-wrapper{
+        width: 125px;
+    }
+}
+@media (max-width: 767px) {
+       .auto_install_layout1 .header_1 .header_cart button.btn.dropdown-toggle{
+            background: #000000 !important;
+        }
+}
+@media (max-width: 478px) {
+    .site-header .woocommerce-product-search input.search-field[type="search"]{
+        width: 45%;
+    }
+    .search_block_top .select-wrapper {
+        width: 29%;
+    }
+    .site-header .search_button.btn.button-search {
+        width:25%;
+    }
+}

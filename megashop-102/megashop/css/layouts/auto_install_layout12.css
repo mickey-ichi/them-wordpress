@@ -1,0 +1,100 @@
+
+/*
+ * Medicine css
+ */
+ 
+ .site-header .ttsupport .service {
+    color: black;
+}
+.cart-heading {
+    color: black;
+}
+.header_cart button.btn::after {
+    background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -32px -114px !important;
+}
+#headercarttrigger > span{
+background:#fe506a;
+}
+
+.auto_install_layout12 .site-header .woocommerce-product-search input.search-field[type="search"]{
+ 	border:2px solid #eee;
+	border-right:none;
+}
+.auto_install_layout12 .woocommerce-product-search select{
+	background:none;
+	border-top:2px solid #eee;
+	border-bottom:2px solid #eee;	
+}
+.auto_install_layout12 .search_block_top .select-wrapper::before {
+    border-right: 1px solid #cfcfcf;
+    content: "";
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+}
+.auto_install_layout12 .header-bottom .ttbannerblock .ttbanner{
+	padding:0 !important;
+}
+.woo_product .owl-item li .product-container {
+    min-height: auto;
+}
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link{
+	height: 51px !important;
+    line-height: 51px !important;
+	font-size:16px !important;
+}
+.footer-widget-area.border, .payment-icon-inner{
+    border-top: 1px solid #424242;
+}
+#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after{
+    border-right: 1px solid #424242;
+}
+
+.auto_install_layout12 .site-header .search_button.btn.button-search:hover,
+.auto_install_layout12 .site-header .search_button.btn.button-search{
+    color: #fff !important;
+}
+.site-header .ttsupport .ttcontent_inner .service .ttsupport_img{
+  background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -35px -426px !important;
+}
+.hedaer_1 .search_block_top .select-wrapper::before{
+ 	border-left: 1px solid #e5e5e5;
+    content: "";
+    height: 25px;
+    left: 0;
+    position: absolute;
+    right: auto;
+    top: 6px;
+    z-index: 9;
+}
+
+@media screen and (max-width: 991px) {
+	.site-footer .toggle:hover {
+		background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+	}
+}
+@media screen and (max-width:767px) {
+.header-bottom .rightbanner .ttbannerblock {
+    float: left;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 33.33%;
+}
+	.rightbanner .ttbannerblock:first-child{
+	margin-top:0px;
+	}
+	.one_fourth,.three_fourth,.header-bottom .rightbanner .ttbannerblock  {
+	width:100%;
+	}
+	.ttbannerblock{
+	background:none;
+	padding:0 !important;
+	}
+	.header-bottom .three_fourth_inner{
+	padding:0 !important;
+	}
+	.three_fourth {
+	margin-bottom:10px;
+}
+}

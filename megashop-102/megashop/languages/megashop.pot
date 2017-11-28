@@ -1,0 +1,596 @@
+# Copyright (C) 2017 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TemplateTrip 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-01-20 09:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:24 404.php:52 404.php:77
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:28 404.php:56 404.php:81
+msgid "It looks like nothing was found at this location. Maybe try a search?!"
+msgstr ""
+
+#: 404.php:25 404.php:30 searchform.php:6 inc/frontend/footer.php:108
+#: inc/frontend/footer.php:138 inc/frontend/footer.php:436
+#: inc/frontend/footer.php:439
+msgid "Search"
+msgstr ""
+
+#: comments.php:69
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:80
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Left Menu"
+msgstr ""
+
+#: functions.php:156
+msgid "Left Sidebar For all pages"
+msgstr ""
+
+#: functions.php:166
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:211
+msgid "Footer Column 5"
+msgstr ""
+
+#: functions.php:221
+msgid "Footer Column 6"
+msgstr ""
+
+#: functions.php:230
+msgid "Footer Widget For Payment Icon Display"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14 searchform.php:17
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product/related.php:50
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:48
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-audio.php:74 template-parts/content-gallery.php:50 template-parts/content-image.php:62 template-parts/content-quote.php:66
+template-parts/content-video.php:61 template-parts/content.php:33
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/theme-functions.php:196
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/theme-functions.php:404
+msgid "Refine Search"
+msgstr ""
+
+#: inc/theme-functions.php:418
+msgctxt "Previous page"
+msgid ""
+msgstr ""
+
+#: inc/theme-functions.php:419
+msgctxt "Next page"
+msgid ""
+msgstr ""
+
+#: inc/theme-functions.php:430
+msgctxt "First name"
+msgid ""
+
+#: inc/theme-functions.php:434
+msgid "Last name"
+msgstr ""
+
+#: inc/theme-functions.php:439
+msgid "Phone"
+msgstr ""
+
+#: inc/theme-functions.php:452
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/theme-functions.php:454
+msgid "Not yet rated"
+msgstr ""
+
+#: inc/theme-functions.php:459
+msgid "out of 5"
+msgstr ""
+
+#: inc/theme-functions.php:466
+msgid "<strong>Error</strong>: First name is required!"
+msgstr ""
+
+#: inc/theme-functions.php:469
+msgid "<strong>Error</strong>: Last name is required!."
+msgstr ""
+
+#: inc/theme-functions.php:472
+msgid "<strong>Error</strong>: Phone is required!."
+msgstr ""
+
+#: inc/theme-functions.php:551
+msgid "If you like"
+msgstr ""
+
+#: inc/theme-functions.php:552
+msgid "Megashop WooCommerce Responsive Theme"
+msgstr ""
+
+#: inc/theme-functions.php:553
+msgid "please leave us a "
+msgstr ""
+
+#: inc/theme-functions.php:198
+msgid " rating. A huge thank you from TemplateTrip in advance!"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "<span class="byline"><span class="author vcard">%1$s<span class="screen-reader-text">%2$s </span> <a class="url fn n" href="%3$s">%4$s</a></span></span>"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Author"
+msgstr ""
+
+#: header/header-layout.php:27 header-layout.php:30 header-layout.php:90 header-layout.php:92 header-layout.php:319 header-layout.php:321
+msgid "My Account"
+msgstr ""
+
+#: header/header-layout.php:65 header-layout.php:127 header-layout.php:356
+msgid "Wish List"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Used before post author name"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgid "<span class="entry-format">%1$s<a href="%2$s">%3$s</a></span>"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class="screen-reader-text"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: inc/tt-newaddwidgetarea.php:112
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/tt-newaddwidgetarea.php:417
+msgid "Add Sidebar"
+msgstr ""
+
+#: inc/tt-shortcodes.php:249
+msgid "Tab"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:9
+msgid "Contact Us Widget"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:10
+msgid "TT Contact Us Widget"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:96 inc/widgets/widget-latestblog.php:287 inc/widgets/widget-latestblog.php:147
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:100
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:104
+msgid "Address
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:108
+msgid "E-mail:"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:112
+msgid "Link URL:"
+msgstr ""
+
+#: inc/widgets/widget-contactus.php:117
+msgid "Phone No:"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:18
+msgid "Display Blogs Slider."
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:21
+msgid "TT Latest Blogs Slider:"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:185
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:211
+msgid "0 Comments"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:213
+msgid "1 Comments"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:217
+msgid "Comments are off for this post."
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:289 inc/widgets/widget-latestblog.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:294
+msgid "Blog Columns:"
+msgstr ""
+
+#: inc/widgets/widget-latestblog.php:303 inc/widgets/widget-latestblog.php:153
+msgid "Display Blog Comment?"
+msgstr ""
+
+#: inc/widgets/widget-latestblog-list.php:16
+msgid "Display Latest Blog lists."
+msgstr ""
+
+#: inc/widgets/widget-latestblog-list.php:19
+msgid "TT Latest Blog Lists"
+msgstr ""
+
+#: inc/widgets/widget-latestblog-list.php:96
+msgid " Leave a comment<span class="screen-reader-text"> on %s</span>"
+msgstr ""
+
+#: inc/widgets/widget-latestblog-list.php:156
+msgid "Display Blog Author?:"
+msgstr ""
+
+#: inc/widgets/widget-latestblog-list.php:159
+msgid "Display Blog Date?"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:12
+msgid "Select Shortcode into post/page"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:14
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:156
+msgid "Accordians & Toggles"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:158
+msgid "Accordians"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:172
+msgid "Toggles"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:189
+msgid "Blockquotes"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:206
+msgid "Dividers"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:223
+msgid "Lists"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:234
+msgid "map"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:251
+msgid "Message boxs"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:268
+msgid "Progress bar & Pie chart"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:270
+msgid "Progress bar"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:281
+msgid "Pie chart"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:291
+msgid "Counter"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:302
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:313
+msgid "Services"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:330
+msgid "Tabs"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:353
+msgid "Share & Follow Icon"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:370
+msgid "Buttons"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:396
+msgid "Product Tab & Product Type"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:419
+msgid "Testimonial & Our Brand"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:430
+msgid "Banner Layout"
+msgstr ""
+
+#: inc/admin/includes/admin-shortcode.php:444
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/admin/megashop_menu-panel.php:16
+msgid "Install Demos"
+msgstr ""
+
+#: inc/admin/megashop_menu-panel.php:17
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/megashop_menu-panel.php:18
+msgid "Support"
+msgstr ""
+
+#: inc/admin/megashop_menu-panel.php:21
+msgid "About megashop"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:11
+msgid "Megashop Theme"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:12
+msgid "Megashop WooCommerce Multipurpose Responsive Theme"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:27
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:31
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-welcome.php:54 inc/admin/megashop_menu/megashop-install_demos.php:107
+msgid "Back to Themes"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-menu_header.php:15
+msgid "Welcome to megashop Theme"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-install_demos.php:12
+msgid "Is your store looks same as our live theme demo?"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-install_demos.php:64
+msgid "Install Sample Data"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-install_demos.php:69
+msgid "Uninstall Sample Data"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-install_demos.php:77
+msgid "So that you don′t start on a blank site, the sample data will help you get started with the theme. The content includes some default settings, widgets in their locations, pages, posts and a few dummy posts."
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-install_demos.php:81
+msgid "NOTE: Bofore click on Uninstall-Sample-Data button, you'll never restore your current store configuration and settings :("
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:12
+msgid "Accordions Shortcode"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:18
+msgid "Toggles Shortcode"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:24
+msgid "Button Shortcode"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:30
+msgid "Product Tab Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:36
+msgid "Product Type Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:42
+msgid "Service Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:48
+msgid "Share Icon Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:48
+msgid "Counter Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:54
+msgid "Share Icon Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:60
+msgid "Message Box Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:66
+msgid "Follow Icon Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:72
+msgid "Tab Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:78
+msgid "Message Box Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:84
+msgid "Progress bar Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:90
+msgid "List Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:96
+msgid "Divider Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:102
+msgid "Blockqoute Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:108
+msgid "Map Shortcode "
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:10
+msgid "Megashop Support"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-support.php:17
+msgid "Need Help?"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:20
+msgid "Generate Ticket Here"
+msgstr ""
+
+#: inc/admin/megashop_menu/megashop-shortcode.php:18
+msgid "We provide 24/7 outstanding support - dedicated and friendly help. We have an amazing team to provide outstanding support at any time. Do not hesitate to contact us for support."
+msgstr ""
+
+#. Name of the theme
+msgid "megashop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Megashop is a beautifully designed responsive WooCommerce Theme for your eCommerce Clean and Unique Store, It comes with custom homepages, shortcodes, drop-down menus, meta slider plugin and lots of more useful features available inside theme options. "
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.templatetrip.com/WooCommerce/WCM040/WCM01/"
+msgstr ""
+
+#. Author of the theme
+msgid "TemplateTrip"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://templatetrip.com/"
+msgstr ""

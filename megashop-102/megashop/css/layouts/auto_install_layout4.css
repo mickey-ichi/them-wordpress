@@ -1,0 +1,51 @@
+/*
+ * Megashop css
+ */
+ 
+.footer-widget-area.border, .payment-icon-inner{
+    border-top: 1px solid #424242;
+}
+#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after{
+    border-right: 1px solid #424242;
+}
+.ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+    border-right: 1px solid #111111;
+}
+.rtl .ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+    border-left: 1px solid #111111;
+    border-right:0;
+}
+.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after ,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after {
+    border-color: #424242;
+}
+.woocommerce .product-block span.onsale,.quick-wcqv-main .woocommerce.single-product span.onsale,.auto_install_layout4 .product-thumb span.onsale, .auto_install_layout4.woocommerce ul.products li.product .product-thumb .onsale,.auto_install_layout4 li.product .product-thumb .onsale{
+    background: #f12a43 none repeat scroll 0 0;
+}
+.product-block .single_add_to_cart_button:hover:before{
+    background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -24px -176px;
+}
+.auto_install_layout4 .footer-bottom,.auto_install_layout4 .header_1 .top-header{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+@media screen and (min-width: 768px) {
+    .header_logo,.header_left.search_block_top{
+        margin: 36px auto;
+    }
+    .ttcmsheaderservices.header_right{
+        margin: 24px 15px 25px 0;
+    }
+    .header_cart.ttheader_cart{
+        margin: 36px auto;
+    }
+}
+@media screen and (max-width: 991px) {
+    .footer-widget-area.border, .payment-icon-inner{
+        border: none;
+    }
+    #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after{
+        border-color: #424242;
+    }
+    .auto_install_layout4 .header_1 .header_cart button.btn.dropdown-toggle{
+        background: #000 !important;
+    }
+}

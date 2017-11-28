@@ -1,0 +1,52 @@
+
+/*
+ * Megashop css
+ */
+
+.auto_install_layout13 .site-header .woocommerce-product-search .search_button.btn.button-search:hover,.auto_install_layout2 .wysija-submit:hover,.woocommerce input.button.alt:hover{
+    color: #fff !important;
+}
+.auto_install_layout13 .header_1 .top-header{
+	background:#ed5483 !important;
+}
+.auto_install_layout13 .site-header .woocommerce-product-search input.search-field[type="search"]{
+ 	border:2px solid #eee;
+	border-right:none;
+}
+.auto_install_layout13 .site-header .ttsupport .ttcontent_inner .service .ttsupport_img {
+    background: rgba(0, 0, 0, 0) url("images/sprite2.png") repeat scroll -35px -426px;
+}
+.header_cart button.btn::after {
+    background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -32px -114px !important;
+}
+#headercarttrigger > span {
+    background: #ed5483 none repeat scroll 0 0;
+}
+.woocommerce-product-search select{
+	background:none;
+	border-top:2px solid #eee;
+	border-bottom:2px solid #eee;	
+}
+.search_block_top .select-wrapper::before {
+    border-right: 1px solid #cfcfcf;
+    content: "";
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+}
+.single-product.woocommerce .thumbnails #slider-prev, .single-product.woocommerce .thumbnails #slider-next {
+    top: 45% !important;
+}
+
+.ttbanner1.ttbanner.col-sm-6.col-xs-6{
+padding-left:0;
+}
+.ttbanner2.ttbanner.col-sm-6.col-xs-6{
+padding-right:0;
+}
+@media (max-width: 767px) {
+       .auto_install_layout13 .header_1 .header_cart button.btn.dropdown-toggle{
+            background: #000000 !important;
+        }
+}

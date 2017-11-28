@@ -1,0 +1,107 @@
+
+/*
+ * Book css
+*/
+.site-header.header_2 .header_cart button.btn::after{
+    background: rgba(0, 0, 0, 0) url("../../images/sprite2.png") no-repeat scroll -36px -155px;
+}
+.ttbannerblock{
+background:none;
+padding:0;
+}
+.auto_install_layout9 .site-header .search_button.btn.button-search:hover,
+.auto_install_layout9 .site-header .search_button.btn.button-search{
+    color: #fff !important;
+}
+.auto_install_layout9 .rightbanner .ttbannerblock:last-child {
+    margin-bottom: 0;
+}
+.auto_install_layout9 .metaslider .flexslider .flex-direction-nav a{
+    color: #fff !important;
+	border-color:#fff !important;
+}
+.auto_install_layout9 #mega-menu-wrap-left_menu .mega-menu-toggle .mega-toggle-block:before{
+    color: #fff !important;
+}
+.auto_install_layout9 #mega-menu-wrap-left_menu .mega-menu-toggle,#mega-menu-wrap-left_menu .mega-menu-toggle .mega-toggle-block:after{
+    color: #fff !important;
+}	
+.auto_install_layout9 .rightbanner .ttbanner-img img{
+    width: auto;
+    margin: 0 auto;
+}
+.rightbanner .ttbannerblock{
+    background: none;
+}
+ .auto_install_layout9 .footer-widget-area.border, .payment-icon-inner {
+    border-top: 1px solid #424242;
+}
+#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after{
+    border-right: 1px solid #424242;
+}
+.ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+    border-right: 1px solid #111111;
+}
+.rtl .ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+    border-left: 1px solid #111111;
+    border-right:0;
+}
+.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after ,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after {
+    border-color: #424242;
+}
+.auto_install_layout9 .place-order #place_order.button:hover{
+    color:  #fff !important;
+}
+.auto_install_layout9 li.product .product-thumb img{
+	margin:0 !important;
+}
+@media screen and (max-width: 991px) {
+	.site-footer .toggle:hover {
+		background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+	}	
+    .responsivemenu .mega-menu-toggle .mega-toggle-block:before{
+        position: absolute;
+        right: 55px; 
+    }
+    .right_menu_left_text.padding_0{
+        display: inline-block;
+        float: right;
+       text-align: left;
+        width: auto;
+    }
+    .right_menu_left_text > div, .left_menu_left_right > div {
+        display: inline-table;
+        float: none;
+		 line-height: 3.2
+    }
+    .left_text {
+        text-align: left;
+        width: auto;
+    }
+}
+@media screen and (max-width: 767px) {
+    .rightbanner .ttbannerblock.layout1{
+        width: auto;
+    }
+    .right_menu_left_text.padding_0,.left_text{
+        display: inline-block;
+        float: left;
+       text-align: center;
+        width: 100%;
+    }
+	 .right_menu_left_text > div, .left_menu_left_right > div {
+		 line-height: 2.2
+    }
+    .rightbanner .ttbannerblock {
+        display: inline-block;
+        float: unset;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .rightbanner {
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+}

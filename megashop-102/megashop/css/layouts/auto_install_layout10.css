@@ -1,0 +1,64 @@
+
+/*
+ * Bio herbal css
+ */
+ .site-header .ttsupport .service {
+    color: black;
+}
+.cart-heading {
+    color: black;
+}
+.header_cart button.btn::after {
+    background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -32px -114px !important;
+}
+#headercarttrigger > span{
+background:#ffa729;
+}
+
+.auto_install_layout10 .site-header .search_button.btn.button-search:hover,
+.auto_install_layout10 .site-header .search_button.btn.button-search{
+    color: #fff !important;
+}
+.footer-widget-area.border, .payment-icon-inner{
+	border-top:1px solid rgba(255,255,255,0.1) !important;
+}
+.site-header .woocommerce-product-search input.search-field[type="search"]{
+-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eeeeee;
+    border-image: none;
+    border-radius: 4px 0 0 4px;
+    border-style: solid none solid solid;
+    border-width: 2px medium 2px 2px;
+}
+.woocommerce-product-search select{
+	border-top:2px solid #eee;
+	border-bottom:2px solid #eee;
+	background:#fff;
+}
+.search_block_top .select-wrapper::before {
+    border-left: 1px solid #e5e5e5;
+    content: "";
+    height: 25px;
+    left: 0;
+    position: absolute;
+    right: auto;
+    top: 6px;
+    z-index: 9;
+}
+
+.site-header .ttsupport .ttcontent_inner .service .ttsupport_img{
+  background: rgba(0, 0, 0, 0) url("../../images/sprite_1.png") no-repeat scroll -35px -426px !important;
+}
+.ttbannerblock{
+background:none;
+padding:0;
+}
+
+@media screen and (max-width: 991px) {
+	.site-footer .toggle:hover {
+		background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+	}
+}

@@ -1,0 +1,223 @@
+/* 
+    Document   : Autoparts css
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.auto_install_layout3.site.box_layout.container.padding_0 {
+    background: #ffffff none repeat scroll 0 0;
+}
+.ttheader, .auto_install_layout3 .left_sidebar.container,.header-bottom .ttbannerblock{
+    padding: 0 15px !important;
+}
+.row.banner .ttbannerblock {
+    margin-bottom: 0;
+}
+.top-header .container{
+    padding: 0 30px !important;
+}
+.ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+    border-right: 1px solid #414141;
+}
+.auto_install_layout3 .site-header .search_button.btn.button-search {
+    background-color:#ffd71c;
+    border-color: #ffd71c;
+}
+.auto_install_layout3 .site-header .search_button.btn.button-search:hover,.auto_install_layout3 #headercarttrigger > span{
+    color: #fff !important;
+}
+.auto_install_layout3 .site-header .search_button.btn.button-search{
+    color: #111 !important;
+}
+.error-404.not-found, .site-main article, .site-main .comments-area{
+    padding:0;
+}
+.auto_install_layout3 .sidebar .widget {
+    border: 1px solid #f0f0f0;
+    margin-bottom: -1px;
+}
+.auto_install_layout3 .woocommerce-billing-fields,.auto_install_layout3 .woocommerce-shipping-fields,.woocommerce-checkout-payment,
+.woocommerce-MyAccount-navigation ul li,.woocommerce-account .woocommerce-MyAccount-content{
+    border: 1px solid #f0f0f0;
+}
+.auto_install_layout3 .sidebar .widget:last-child{
+    margin-bottom: 0;
+}
+.auto_install_layout3 .footer-widget-area.border,.auto_install_layout3 .copyright,.auto_install_layout3 .follow-us {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.auto_install_layout3 .above_footer_area{
+    border-bottom: 1px solid #272727;
+}
+.auto_install_layout3 .footer-widget-area.border,.auto_install_layout3 .payment-icon-inner{
+    border:none;
+}
+.auto_install_layout3 .payment-icon-block{
+    border-top: 1px solid #272727;
+}
+.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,.rtl #ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after ,#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content::after,#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content:after,#ttcmsfooterservice .ttcmsfooterservice .ttfooterservice .service-block-content.easy-returns:after {
+    border-color: #272727;
+}
+.auto_install_layout3 .tab-content,.auto_install_layout3 .products_block.woo_product,.auto_install_layout3 .latestblog-wrap,.auto_install_layout3 .brand-carousel-wrap.owl-carousel{
+    padding: 0;
+}
+.auto_install_layout3 .woo_product .owl-item li,.auto_install_layout3 .latestblog-carousel .owl-item li{
+    padding: 10px 15px;
+}
+.auto_install_layout3 #primary .block_content,.auto_install_layout3 .products_block.woo_product,.auto_install_layout3 .latestblog-wrap{
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+    clear: both;
+    width: auto;
+    float: none;
+}
+.auto_install_layout3 .products_block ul{
+    float: left;
+    width: 100%;
+}
+.auto_install_layout3 .product-carousel .customNavigation,.auto_install_layout3 .brand-carousel .customNavigation,
+.auto_install_layout3 .latest_blog_wrap .customNavigation,.auto_install_layout3 .products_block .customNavigation{
+    right: -15px;
+}
+.auto_install_layout3 .products_block.woo_product .customNavigation{
+    right: 0;
+}
+.auto_install_layout3 .banner.row,.woocommerce ul.products {
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+}
+.auto_install_layout3 .woocommerce-error,.auto_install_layout3 .woocommerce-info,.auto_install_layout3 .woocommerce-message{
+    background: #f5f5f5;
+}
+.woocommerce .auto_install_layout3 .product_wrap ul.products, .woocommerce-page .auto_install_layout3 .product_wrap ul.products{
+    padding: 0;
+}
+.woocommerce .product_wrap ul.products li.product, .woocommerce-page .product_wrap ul.products li.product,.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+    padding: 15px;
+}
+.woocommerce .product_wrap ul.products, .woocommerce-page .product_wrap ul.products{
+    margin: 0 -25px !important;
+}
+.auto_install_layout3 .content-area .product-block,.woocommerce .auto_install_layout3 div.product .woocommerce-tabs .panel,
+.woocommerce .auto_install_layout3 .related.products ul.products, .woocommerce .auto_install_layout3 .products ul.products{
+    padding: 0;    
+}
+.auto_install_layout3 #add_payment_method #payment ul.payment_methods,.auto_install_layout3 .woocommerce-cart #payment ul.payment_methods,.auto_install_layout3 .woocommerce-checkout #payment ul.payment_methods{
+    border-color: #f0f0f0;
+}
+.site-main .blog-div > article,.site-main .archive-div > article{
+    border: 1px solid #f0f0f0;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.post-navigation a{
+    border: 1px solid #f0f0f0;
+}
+.auto_install_layout3 .search_block_top .select-wrapper:before {
+    border-left: 1px solid #e5e5e5;
+    content: "";
+    height: 25px;
+    left: 0;
+    position: absolute;
+    right: auto;
+    top: 6px;
+    z-index: 9;
+}
+.category-description-wrap{
+    padding: 0;
+}
+.category-description-wrap .category-list h3{
+    margin-top: 0;
+}
+.page-title-wrapper {
+    background: #f5f5f5 none repeat scroll 0 0;
+    display: inline-block;
+    float: left;
+    width: inherit;
+    list-style: none;
+}
+.page-title-wrapper {
+    margin: 0 -15px 20px;
+    padding: 25px 30px;
+}
+.woocommerce-product-search select{
+    background: #fff;
+}
+.related.products .customNavigation,.cross-sells .customNavigation,.related.products .customNavigation,.upsells .customNavigation{
+    right: -15px;
+}
+.auto_install_layout3 .metaslider .flexslider .flex-next,.auto_install_layout3 .metaslider .flexslider .flex-prev{
+    border-color:#ffd71c;
+}
+.auto_install_layout3 .metaslider .flexslider .flex-next,.auto_install_layout3 .metaslider .flexslider .flex-prev{
+    color:#ffd71c;
+}
+.auto_install_layout3 .metaslider .flexslider:hover .flex-next:hover,.auto_install_layout3 .metaslider .flexslider:hover .flex-prev:hover{
+    color:#000 !important;
+    background: #ffd71c;
+}
+ul.products.owl-carousel.owl-theme{
+    margin: 0 -15px;
+    width: auto;
+}
+.related.products .customNavigation, .upsells.products .customNavigation,.cross-sells.products .customNavigation{
+    right: -15px;
+}
+.header_cart.ttheader_cart{
+    margin: 35px auto 0;
+}
+.header_logo{
+    margin: 35px 0;
+}
+.ttcmsheaderservices.header_right{
+    margin: 25px 15px 14px 0;
+}
+.header_left.search_block_top{
+    margin: 36px auto;
+}
+@media screen and (min-width: 992px) {
+    .auto_install_layout3 .sidebar #mega-menu-wrap-left_menu{
+        background: none !important;
+    }
+}
+@media screen and (max-width: 991px) {
+    .auto_install_layout3.box_layout .left_sidebar .content-area, .auto_install_layout3.box_layout .sidebar{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 991px) {
+    .auto_install_layout3 .breadcrumb{
+        padding: 0;
+        float: unset;   
+        text-align: center;
+    }
+    .auto_install_layout3 .page-title-wrapper .page-title, .page-title-wrapper .product_title{
+        margin-bottom: 20px;
+        width: 100%;
+        text-align: center;
+    }
+    .auto_install_layout3 .responsivemenu #mega-menu-wrap-left_menu{
+        margin-bottom: 5px;
+    }    
+    .auto_install_layout3 .header_1 .header_cart button.btn.dropdown-toggle{
+        background:  rgba(0,0,0,0.1) !important;
+    }
+    .auto_install_layout3 .header_cart.ttheader_cart{
+        bottom: -40px;
+        top:auto;
+    }
+    .auto_install_layout3 .payment-icon-block,.auto_install_layout3 .above_footer_area{
+        border: none;
+    }
+    .auto_install_layout3 .footer-widget-area.border{
+        padding: 0 !important;
+    }
+    .auto_install_layout3 .sidebar .widget{
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .auto_install_layout3 .ttcmsheaderservices .ttsupport .ttcontent_inner .service .service-content{
+        border: none;
+    }
+}
